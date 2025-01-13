@@ -1,5 +1,5 @@
 opencv-python==4.7.0.68
-mediapipe==0.10.1
+mediapipe==0.10.5
 scikit-learn==1.5.2
 flask
 gunicorn
